@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu Site</title>
+</head>
+<body>
+    <style>
+body {
+    background-color: #f8f9fa;
+}
+
+    </style>body 
+       
+    <div class="container">
+        <h1 class="text-center">Bem-vindo ao Meu Site!</h1>
+        <p class="text-center">Este é um site estático criado com HTML, CSS e Bootstrap.</p>
+        <div class="text-center">
+            <a href="#" class="btn btn-primary">Saiba Mais</a>
+        </div>
+    </div>
+</body>
+</html>
